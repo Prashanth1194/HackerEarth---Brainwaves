@@ -1,4 +1,4 @@
-# HackerEarth---Brainwaves
+# HackerEarth-Brainwaves
 
 Time Frame : 16 Oct, 2016 - 28 Oct, 2016
 
